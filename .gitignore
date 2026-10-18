@@ -1,0 +1,18 @@
+# Eclipse metadata
+.metadata/
+.settings/
+
+# Build outputs
+build/
+bin/
+
+# OS/IDE files
+.DS_Store
+Thumbs.db
+
+# Maven build outputs
+target/
+
+# IDE/Local build outputs in webapp
+src/main/webapp/WEB-INF/classes/
+

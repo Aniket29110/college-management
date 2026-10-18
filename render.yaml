@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: college-management
+    runtime: docker
+    plan: free
